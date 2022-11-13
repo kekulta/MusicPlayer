@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mainMenuAddPlaylist"
+        app:showAsAction="never"
+        android:title="Add Playlist">
+    </item>
+    <item
+        android:id="@+id/mainMenuLoadPlaylist"
+        app:showAsAction="never"
+        android:title="Load Playlist">
+    </item>
+    <item
+        android:id="@+id/mainMenuDeletePlaylist"
+        app:showAsAction="never"
+        android:title="Delete Playlist">
+    </item>
+
+</menu>
